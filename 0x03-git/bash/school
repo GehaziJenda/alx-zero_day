@@ -1,1 +1,2 @@
-adas
+#!/bin/bash
+echo "School"
